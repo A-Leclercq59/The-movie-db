@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+### Copy the .env.example file to .env, then add the REACT_APP_API_TOKEN from the PDF.
+
 ### `npm start`
 
 Runs the app in the development mode.\
